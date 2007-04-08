@@ -3,7 +3,7 @@ package Acme::BottomsUp;
 use warnings;
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Filter::Simple;
 use PPI;
@@ -33,7 +33,7 @@ Acme::BottomsUp - Write individual statements backwards
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
